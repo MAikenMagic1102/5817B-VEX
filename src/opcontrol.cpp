@@ -18,6 +18,6 @@ void opcontrol() {
 
 	while (true) {
 		driver_control();
-		pros::delay(2);
+		pros::delay(20);
 	}
 }

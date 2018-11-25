@@ -2,6 +2,7 @@
 #define SHOOTER_H
 
 class Shooter{
+public:
   Shooter();
 
   void hood_sethome();
